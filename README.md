@@ -87,5 +87,4 @@ Always test with “Test Mode” checked before full send.
 
 Use responsibly and comply with email regulations (CAN-SPAM, GDPR, etc.).
 
-Would you like me to add Streamlit Cloud deployment instructions (e.g., how to set Gmail password as a secret in Streamlit)?
-That would make this README ready for hosting online.
+
