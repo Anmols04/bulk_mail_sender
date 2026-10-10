@@ -10,7 +10,7 @@
 
 </div>
 
-<img width="1856" height="1035" alt="Screenshot 2026-10-10 095219" src="https://github.com/user-attachments/assets/7a45ddfb-8d05-427b-a1c5-e810919e3223" />
+
 
 
 ## 📖 Overview
